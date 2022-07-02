@@ -1,0 +1,4 @@
+# ignore key files
+
+api-key.txt
+client-id.txt
